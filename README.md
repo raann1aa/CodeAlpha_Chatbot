@@ -1,2 +1,3 @@
-# CodeAlpha_Chatbot
-it is an ai powered chat bot 
+# AI Chatbot with Generative Model
+
+Instructions to run the chatbot
